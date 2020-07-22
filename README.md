@@ -4,6 +4,8 @@ This package make every javascript duplicated array or plain object to a unique 
 <br />
 <hr />
 
+- npm i unique.js
+
 ## Files
 Four files are available:
 
