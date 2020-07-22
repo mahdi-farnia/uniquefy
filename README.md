@@ -1,10 +1,10 @@
-# Unique.js
+# Unique
 This package make every javascript duplicated array or plain object to a unique one
 <br />
 <br />
 <hr />
 
-- npm i unique.js
+- npm i unique
 
 ## Files
 Four files are available:
