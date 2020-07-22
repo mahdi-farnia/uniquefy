@@ -1,0 +1,1 @@
+function uniqueObject(e){if(null!=e&&"object"==typeof e&&!e.nodeType&&!e.window){var t=Object.keys(e),n=t.length;if(n<2)return;for(var r=0;r<n;r++)for(var o=e[t[r]],u=0;u<r;u++)o==e[t[u]]&&delete e[t[r]];return e}return{}}module.exports=uniqueObject;

@@ -1,0 +1,1 @@
+function uniqueArr(r){if(Array.isArray(r)){var u=r.length;if(u<2)return r;for(var e=0,n=[];e<u;e++){var i=r[e];-1===n.indexOf(i)&&n.push(i)}return n}return[]}module.exports={uniqueArr:uniqueArr};
